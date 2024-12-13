@@ -264,7 +264,7 @@ footer .social-media-list .social-media-link:hover {
 footer .copyright-text {
     color: var(--light-gray-color);
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
     @keyframes header-shrink-menu {
         to {
             transform: translateX(50%);
